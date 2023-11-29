@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color:#f4f4f4;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.profile-img {
+    width: 150px;
+    height: auto;
+    border-radius: 50%;
+    border-color: blue;
+    border-style: solid;
+}
+h1 {
+    margin-top: 10px;
+}
+.bio, .projects {
+    margin: 0 20px 20px 20px;
+}
+a{
+    color: #333; text-decoration: none;
+}
+footer {
+    text-align: center;
+    margin-top: 20px;
+    background-color: black;
+}
+li{
+    list-style-type:none;
+}
+footer a{
+    color: aliceblue;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+main, .header-content{
+    background-color: gray;
+}
+
+
